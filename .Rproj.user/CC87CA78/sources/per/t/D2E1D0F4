@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570531724881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1949013977",
+    "id" : "D2E1D0F4",
+    "lastKnownWriteTime" : 1570531746,
+    "last_content_update" : 1570531746088,
+    "path" : "D:/UserData/Desktop/Rstudio/test2/test2.R",
+    "project_path" : "test2.R",
+    "properties" : {
+        "cursorPosition" : "0,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
